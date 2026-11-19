@@ -15,3 +15,7 @@
     border: 1px solid #2e8b57;
     text-align: left;
 }
+.elem {
+ 	align-self: center;
+	height: 25px;
+}
